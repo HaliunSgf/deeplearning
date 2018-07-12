@@ -1,4 +1,4 @@
-# Natural Language Processing
+# Natural Language Processing | Restaurant review analysis
 > Ts.Erkhembileg & B.Khaliun
 
 Natural Language Processing нь Хиймэл оюун ухааны нэг салбар бөгөөд компьютер-т хүний хэлийг ойлгох, сурах боломж олгосон. Энэ нь хэрэглэгч компьютер-тайгаа харьцахдаа заавал artificial languages болох Java, C гэх мэт хэлнүүдээр биш өөрийн хэлийг ашиглах боломжтой гэсэн үг юм. 
